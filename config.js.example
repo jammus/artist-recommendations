@@ -1,0 +1,4 @@
+module.exports = {
+    api_key: '0123456789',
+    secret: '9876543210',
+};
